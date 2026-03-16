@@ -2,6 +2,7 @@
 The files in this repository aim to explore the two types of Parameter Efficient Fine-Tuning(PEFT) techniques LoRA and QLoRA
 
 LoRA & QLoRA: Efficient Fine-Tuning of Large Language Models
+
 📌 Overview
 This repository provides resources, examples, and implementations for LoRA (Low-Rank Adaptation) and QLoRA (Quantized LoRA) — two powerful techniques for fine-tuning large language models (LLMs) efficiently.
 Instead of retraining entire models, these methods allow you to adapt pre-trained LLMs with minimal compute, memory, and storage requirements.
