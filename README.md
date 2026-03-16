@@ -27,13 +27,6 @@ Instead of retraining entire models, these methods allow you to adapt pre-traine
 - Ideal for resource-constrained environments.
 
 
-
-⚙️ Installation
-git clone https://github.com/your-username/lora-qlora.git
-cd lora-qlora
-pip install -r requirements.txt
-
-
 Requirements include:
 - transformers
 - peft (Parameter-Efficient Fine-Tuning library)
