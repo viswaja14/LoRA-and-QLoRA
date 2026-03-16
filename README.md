@@ -1,6 +1,5 @@
 # LoRA-and-QLoRA
-The files in this repository aim to explore the two types of Parameter Efficient Fine-Tuning(PEFT) techniques LoRA and QLoRA.
-Here’s a polished README.md draft you can use for a GitHub repository on LoRA and QLoRA. It’s structured, informative, and beginner-friendly while still appealing to advanced users.
+The files in this repository aim to explore the two types of Parameter Efficient Fine-Tuning(PEFT) techniques LoRA and QLoRA
 
 LoRA & QLoRA: Efficient Fine-Tuning of Large Language Models
 📌 Overview
